@@ -1,12 +1,12 @@
 {
-  "export_job_id": "ad2c3070-a23d-43a5-938b-8f0d7929a6ac",
+  "export_job_id": "f85d9189-86c6-468b-96c0-d659bcec295c",
   "id_short": 495136,
-  "published_at": "2026-04-13T19:05:28Z",
+  "published_at": "2026-04-19T19:07:16Z",
   "repo_name": "restaurants-that-lost-25-in-customer-satisfaction-over-the-past-year-in-florida-us-sample-495136",
   "sample_asset_name": "beamstation_495136_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/495136/beamstation_495136_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 55,
-  "sample_sha256": "5b18fb73f44be5f87bf3687b25a4e38d84e4173fcd115808dec39c393b57b9c7",
-  "sample_size_bytes": 241382,
-  "total_records": 553
+  "sample_records": 57,
+  "sample_sha256": "23e836d95e91e64c683b4e65a0b29784a8c730601a4798961809548b7a0ae8c3",
+  "sample_size_bytes": 249167,
+  "total_records": 578
 }
