@@ -1,6 +1,6 @@
 # Restaurants That Lost 25%+ in Customer Satisfaction Over the Past Year in Florida, US
 
-> Free BeamStation sample export with 29 rows and masked direct-contact fields.
+> Free BeamStation sample export with 62 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `495136` |
 | Location | Florida |
 | Category | Restaurants |
-| Full dataset size | 298 records |
-| Free sample size | 29 records (9.73%) |
-| Last export | 2026-04-23T11:31:53.674184+00:00 |
+| Full dataset size | 627 records |
+| Free sample size | 62 records (9.89%) |
+| Last export | 2026-04-30T22:35:27.004122+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurants-that-lost-25-in-customer-satisfaction-over-the-past-year-in-florida-us-sample-495136/releases/download/sample-latest/beamstation_495136_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
